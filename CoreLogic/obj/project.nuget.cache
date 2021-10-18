@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "M4w/YTq4CrClJxGUM3/6mkl4DIT2c538UeJeDbsJLURWJ5W5WSA37s6h9I9YFucYG0d29CPIlCdVyg17kOVilg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dewang\\source\\repos\\EmpactisChallenge\\CoreLogic\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dewang\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Dewang\\.nuget\\packages\\csvhelper\\27.1.1\\csvhelper.27.1.1.nupkg.sha512",
+    "C:\\Users\\Dewang\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Dewang\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

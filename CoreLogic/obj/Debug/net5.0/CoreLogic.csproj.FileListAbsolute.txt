@@ -1,0 +1,12 @@
+C:\Users\Dewang\source\repos\EmpactisChallenge\CoreLogic\bin\Debug\net5.0\CoreLogic.deps.json
+C:\Users\Dewang\source\repos\EmpactisChallenge\CoreLogic\bin\Debug\net5.0\CoreLogic.dll
+C:\Users\Dewang\source\repos\EmpactisChallenge\CoreLogic\bin\Debug\net5.0\ref\CoreLogic.dll
+C:\Users\Dewang\source\repos\EmpactisChallenge\CoreLogic\bin\Debug\net5.0\CoreLogic.pdb
+C:\Users\Dewang\source\repos\EmpactisChallenge\CoreLogic\obj\Debug\net5.0\CoreLogic.csproj.AssemblyReference.cache
+C:\Users\Dewang\source\repos\EmpactisChallenge\CoreLogic\obj\Debug\net5.0\CoreLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dewang\source\repos\EmpactisChallenge\CoreLogic\obj\Debug\net5.0\CoreLogic.AssemblyInfoInputs.cache
+C:\Users\Dewang\source\repos\EmpactisChallenge\CoreLogic\obj\Debug\net5.0\CoreLogic.AssemblyInfo.cs
+C:\Users\Dewang\source\repos\EmpactisChallenge\CoreLogic\obj\Debug\net5.0\CoreLogic.csproj.CoreCompileInputs.cache
+C:\Users\Dewang\source\repos\EmpactisChallenge\CoreLogic\obj\Debug\net5.0\CoreLogic.dll
+C:\Users\Dewang\source\repos\EmpactisChallenge\CoreLogic\obj\Debug\net5.0\ref\CoreLogic.dll
+C:\Users\Dewang\source\repos\EmpactisChallenge\CoreLogic\obj\Debug\net5.0\CoreLogic.pdb
